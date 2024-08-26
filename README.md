@@ -1,4 +1,4 @@
-# imc-prosperity-2024
+# IMC-Prosperity-2024
 
 This repo contains the source code for our trading strategies in the 2024 IMC Prosperity Competition. We competed under the team name Palamos and placed 82nd out of 3215 ranked teams. For information on the 2024 leaderboard, please refer to [here](https://jmerle.github.io/imc-prosperity-2-leaderboard/)
 
